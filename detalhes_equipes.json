@@ -1,0 +1,137 @@
+{
+  "vanwall": {
+    "nome_completo": "Vanwall",
+    "nacionalidade": "Britânica",
+    "titulos": 1,
+    "vitorias": 6,
+    "poles": 7,
+    "pódios": 16,
+    "corridas": 21
+  },
+  "cooper": {
+    "nome_completo": "Cooper Car Company",
+    "nacionalidade": "Britânica",
+    "titulos": 2,
+    "vitorias": 12,
+    "poles": 11,
+    "pódios": 38,
+    "corridas": 73
+  },
+  "lotus": {
+    "nome_completo": "Team Lotus",
+    "nacionalidade": "Britânica",
+    "titulos": 7,
+    "vitorias": 79,
+    "poles": 83,
+    "pódios": 192,
+    "corridas": 198
+  },
+  "brabham": {
+    "nome_completo": "Brabham Racing Organisation",
+    "nacionalidade": "Australiana",
+    "titulos": 4,
+    "vitorias": 35,
+    "poles": 22,
+    "pódios": 94,
+    "corridas": 211
+  },
+  "ferrari": {
+    "nome_completo": "Scuderia Ferrari",
+    "nacionalidade": "Italiana",
+    "titulos": 16,
+    "vitorias": 243,
+    "poles": 237,
+    "pódios": 810,
+    "corridas": 1050
+  },
+  "matra": {
+    "nome_completo": "Matra Sports",
+    "nacionalidade": "Francesa",
+    "titulos": 1,
+    "vitorias": 9,
+    "poles": 7,
+    "pódios": 27,
+    "corridas": 43
+  },
+  "tyrrell": {
+    "nome_completo": "Tyrrell Racing",
+    "nacionalidade": "Britânica",
+    "titulos": 3,
+    "vitorias": 23,
+    "poles": 21,
+    "pódios": 75,
+    "corridas": 147
+  },
+  "williams": {
+    "nome_completo": "Williams Racing",
+    "nacionalidade": "Britânica",
+    "titulos": 9,
+    "vitorias": 114,
+    "poles": 128,
+    "pódios": 315,
+    "corridas": 706
+  },
+  "mclaren": {
+    "nome_completo": "McLaren Racing",
+    "nacionalidade": "Britânica",
+    "titulos": 8,
+    "vitorias": 183,
+    "poles": 155,
+    "pódios": 499,
+    "corridas": 850
+  },
+  "renault": {
+    "nome_completo": "Renault F1 Team",
+    "nacionalidade": "Francesa",
+    "titulos": 2,
+    "vitorias": 35,
+    "poles": 29,
+    "pódios": 112,
+    "corridas": 320
+  },
+  "benetton": {
+    "nome_completo": "Benetton Formula",
+    "nacionalidade": "Britânica",
+    "titulos": 2,
+    "vitorias": 27,
+    "poles": 29,
+    "pódios": 72,
+    "corridas": 158
+  },
+  "brawn_gp": {
+    "nome_completo": "Brawn GP",
+    "nacionalidade": "Britânica",
+    "titulos": 1,
+    "vitorias": 8,
+    "poles": 6,
+    "pódios": 17,
+    "corridas": 17
+  },
+  "red_bull": {
+    "nome_completo": "Red Bull Racing",
+    "nacionalidade": "Austríaca",
+    "titulos": 6,
+    "vitorias": 115,
+    "poles": 87,
+    "pódios": 235,
+    "corridas": 330
+  },
+  "mercedes": {
+    "nome_completo": "Mercedes-AMG Petronas F1 Team",
+    "nacionalidade": "Alemã",
+    "titulos": 8,
+    "vitorias": 125,
+    "poles": 98,
+    "pódios": 245,
+    "corridas": 215
+  },
+  "brm": {
+    "nome_completo": "British Racing Motors (BRM)",
+    "nacionalidade": "Britânica",
+    "titulos": 1,
+    "vitorias": 17,
+    "poles": 15,
+    "pódios": 60,
+    "corridas": 107
+  }
+}
